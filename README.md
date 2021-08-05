@@ -8,8 +8,8 @@ The idea is to find out which brands are most talked about in specified videos a
 
 To do so, we will:
 
-# extract all comments from the chosen video;
+### extract all comments from the chosen video;
 
-# exploratory data analysis for insights;
+### exploratory data analysis for insights;
 
-# machine learning to predict sentiments.
+### machine learning to predict sentiments.
