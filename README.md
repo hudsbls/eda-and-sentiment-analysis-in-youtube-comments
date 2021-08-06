@@ -8,8 +8,10 @@ The idea is to find out which brands are most talked about in specified videos a
 
 To do so, we will:
 
-### extract all comments from the chosen video;
+### extract all comments from the chosen video using selenium;
 
 ### exploratory data analysis for insights;
 
-### machine learning to predict sentiments.
+### train sentiment analysis with machine learning
+
+### machine learning to predict sentiments in youtube comments.
